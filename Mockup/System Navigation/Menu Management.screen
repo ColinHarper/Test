@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Tree" id="1" x="472" y="69" width="97" text="Menu&#xA;-Personnel&#xA;--General&#xA;--History&#xA;-Work&#xA;--MOM&#xA;--Work Ticket Print&#xA;&#xA;" measuredWidth="97" measuredHeight="178">
+    <items x="0" y="5" width="97" height="21" text="Menu"/>
+    <items x="0" y="26" width="97" height="21" text="-Personnel"/>
+    <items x="0" y="47" width="97" height="21" text="--General"/>
+    <items x="0" y="68" width="97" height="21" text="--History"/>
+    <items x="0" y="89" width="97" height="21" text="-Work"/>
+    <items x="0" y="110" width="97" height="21" text="--MOM"/>
+    <items x="0" y="131" width="97" height="21" text="--Work Ticket Print"/>
+    <items x="0" y="152" width="97" height="21"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Menu" id="2" y="8" text="Std Bits,&amp;appear~&amp;Here~,&amp;Help" measuredWidth="184" measuredHeight="27">
+    <items x="5" y="0" width="50" height="27" text="Std Bits"/>
+    <items x="55" y="0" width="88" height="27" text="&amp;appear~&amp;Here~"/>
+    <items x="143" y="0" width="36" height="27" text="&amp;Help"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="4" x="248" y="10" width="179" text="Menu Management" measuredWidth="179" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:List" id="5" x="232" y="69" text="Item One&#xA;Item Two&#xA;Item Three&#xA;|Multiple&#xA;Selection&#xA;(bg:green)|Works like this&#xA;For List, Table and Tree" measuredWidth="133" measuredHeight="151">
+    <font/>
+    <items x="0" y="2" width="133" height="21" text="Item One"/>
+    <items x="0" y="23" width="133" height="21" text="Item Two"/>
+    <items x="0" y="44" width="133" height="21" text="Item Three"/>
+    <items x="0" y="65" width="133" height="21" text="|Multiple"/>
+    <items x="0" y="86" width="133" height="21" text="Selection"/>
+    <items x="0" y="107" width="133" height="21" text="(bg:green)|Works like this"/>
+    <items x="0" y="128" width="133" height="21" text="For List, Table and Tree"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="6" x="232" y="47" width="179" text="Available Menus" measuredWidth="179" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="7" x="472" y="47" width="179" text="Highlighted Menu" measuredWidth="179" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Tree" id="8" y="34" width="97" text="Menu&#xA;-Personnel&#xA;--General&#xA;--History&#xA;-Work&#xA;--MOM&#xA;--Work Ticket Print&#xA;&#xA;" measuredWidth="97" measuredHeight="178">
+    <items x="0" y="5" width="97" height="21" text="Menu"/>
+    <items x="0" y="26" width="97" height="21" text="-Personnel"/>
+    <items x="0" y="47" width="97" height="21" text="--General"/>
+    <items x="0" y="68" width="97" height="21" text="--History"/>
+    <items x="0" y="89" width="97" height="21" text="-Work"/>
+    <items x="0" y="110" width="97" height="21" text="--MOM"/>
+    <items x="0" y="131" width="97" height="21" text="--Work Ticket Print"/>
+    <items x="0" y="152" width="97" height="21"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:ButtonBar" id="9" x="164" y="272" width="247" text="Create New Menu, Amenu Highlighted" measuredWidth="247" measuredHeight="27" selection="0">
+    <font/>
+    <items x="0" y="0" width="117" height="27" text="Create New Menu"/>
+    <items x="117" y="0" width="130" height="27" text="Amenu Highlighted"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="10" x="520" y="273" text="Apply Changes" measuredWidth="100" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="11" x="451" y="273" text="Refresh" measuredWidth="59" measuredHeight="25">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Tree" id="1" x="8" y="30" width="97" text="Menu&#xA;-Personnel&#xA;--General&#xA;--History&#xA;-Work&#xA;--MOM&#xA;--Work Ticket Print&#xA;&#xA;" measuredWidth="97" measuredHeight="178">
+    <items x="0" y="5" width="97" height="21" text="Menu"/>
+    <items x="0" y="26" width="97" height="21" text="-Personnel"/>
+    <items x="0" y="47" width="97" height="21" text="--General"/>
+    <items x="0" y="68" width="97" height="21" text="--History"/>
+    <items x="0" y="89" width="97" height="21" text="-Work"/>
+    <items x="0" y="110" width="97" height="21" text="--MOM"/>
+    <items x="0" y="131" width="97" height="21" text="--Work Ticket Print"/>
+    <items x="0" y="152" width="97" height="21"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="2" x="200" y="8" width="179" text="People Management" measuredWidth="179" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="3" x="154" y="66" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="9" x="258" y="66" text="Clock ID" measuredWidth="55" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="10" x="258" y="128" text="Forename" measuredWidth="64" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="11" x="258" y="96" text="Surname" measuredWidth="58" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="12" x="136" y="96" text="Surname" measuredWidth="53" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="13" x="378" y="128" text="Known As" measuredWidth="59" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="14" x="136" y="66" width="71" text="Personnel  ID" measuredWidth="71" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="15" x="136" y="227" text="Shift Code" measuredWidth="61" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="16" x="464" y="128" text="Known As" measuredWidth="64" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="17" x="136" y="128" text="Forename" measuredWidth="59" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="18" x="136" y="192" text="Department Code" measuredWidth="100" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="19" x="378" y="227" text="Shift Type" measuredWidth="59" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="23" x="258" y="192" text="Department Code" measuredWidth="121" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="24" x="258" y="227" text="Shift Code" measuredWidth="82" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="25" x="456" y="227" text="Shift Type" measuredWidth="80" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:ButtonBar" id="26" x="384" y="6" text="Add, Chg, Inq, Del" measuredWidth="164" measuredHeight="27" selection="0">
+    <font/>
+    <items x="0" y="0" width="44" height="27" text="Add"/>
+    <items x="44" y="0" width="43" height="27" text="Chg"/>
+    <items x="87" y="0" width="38" height="27" text="Inq"/>
+    <items x="125" y="0" width="39" height="27" text="Del"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="27" x="136" y="267" text="Trade Code" measuredWidth="67" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="28" x="258" y="267" text="Trade Code" measuredWidth="88" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="29" x="136" y="160" text="System User Name" measuredWidth="105" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="30" x="258" y="160" text="User Name" measuredWidth="69" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" id="36" x="378" y="160" text="Active" measuredWidth="54" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="38" x="378" y="96" text="M/F" measuredWidth="28" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:List" id="39" x="464" y="95" width="92" text="(o) M  ( ) F&#xA;" measuredWidth="92" measuredHeight="26" border="false" alpha="0">
+    <font/>
+    <items x="0" y="2" width="92" height="22" text="(o) M  ( ) F"/>
+  </widgets>
+  <widgets xsi:type="model:ButtonBar" id="41" x="136" y="344" width="297" text="Supplementary, Access Control, Password" measuredWidth="297" measuredHeight="27" selection="0">
+    <font/>
+    <items x="0" y="0" width="109" height="27" text="Supplementary"/>
+    <items x="109" y="0" width="107" height="27" text="Access Control"/>
+    <items x="216" y="0" width="81" height="27" text="Password"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="42" x="608" y="345" text="Apply Changes" measuredWidth="100" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Menu" id="43" y="8" text="Std Bits,&amp;appear~&amp;Here~,&amp;Help" measuredWidth="184" measuredHeight="27">
+    <items x="5" y="0" width="50" height="27" text="Std Bits"/>
+    <items x="55" y="0" width="88" height="27" text="&amp;appear~&amp;Here~"/>
+    <items x="143" y="0" width="36" height="27" text="&amp;Help"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="44" x="535" y="345" text="Refresh" measuredWidth="59" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="45" x="136" y="304" text="Manu Allocated" measuredWidth="90" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="46" x="258" y="304" text="Y/N" measuredWidth="32" measuredHeight="23">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

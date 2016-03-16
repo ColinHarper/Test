@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Label" id="2" x="200" y="8" width="137" text="User Access  Control" measuredWidth="137" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:List" id="3" x="32" y="72" text="(o) Menus (selected)&#xA;( ) Roles&#xA;&#xA;" measuredWidth="120" measuredHeight="70" border="false" alpha="0">
+    <font/>
+    <items x="0" y="2" width="120" height="22" text="(o) Menus (selected)"/>
+    <items x="0" y="24" width="120" height="22" text="( ) Roles"/>
+    <items x="0" y="46" width="120" height="22"/>
+  </widgets>
+  <widgets xsi:type="model:List" id="4" x="183" y="80" text="Item One&#xA;Item Two&#xA;Item Three&#xA;|Multiple&#xA;Selection&#xA;(bg:green)|Works like this&#xA;For List, Table and Tree" measuredWidth="133" measuredHeight="151">
+    <font/>
+    <items x="0" y="2" width="133" height="21" text="Item One"/>
+    <items x="0" y="23" width="133" height="21" text="Item Two"/>
+    <items x="0" y="44" width="133" height="21" text="Item Three"/>
+    <items x="0" y="65" width="133" height="21" text="|Multiple"/>
+    <items x="0" y="86" width="133" height="21" text="Selection"/>
+    <items x="0" y="107" width="133" height="21" text="(bg:green)|Works like this"/>
+    <items x="0" y="128" width="133" height="21" text="For List, Table and Tree"/>
+  </widgets>
+  <widgets xsi:type="model:List" id="5" x="368" y="84" width="169" text="Item One&#xA;Item Two&#xA;" measuredWidth="169" measuredHeight="46">
+    <font/>
+    <items x="0" y="2" width="169" height="21" text="Item One"/>
+    <items x="0" y="23" width="169" height="21" text="Item Two"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="6" x="192" y="50" width="137" text="Available" measuredWidth="137" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="7" x="376" y="50" width="137" text="Selected" measuredWidth="137" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="9" x="493" y="256" text="Apply Changes" measuredWidth="100" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="10" x="420" y="256" text="Refresh" measuredWidth="59" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Menu" id="11" y="8" text="Std Bits,&amp;appear~&amp;Here~,&amp;Help" measuredWidth="184" measuredHeight="27">
+    <items x="5" y="0" width="50" height="27" text="Std Bits"/>
+    <items x="55" y="0" width="88" height="27" text="&amp;appear~&amp;Here~"/>
+    <items x="143" y="0" width="36" height="27" text="&amp;Help"/>
+  </widgets>
+  <widgets xsi:type="model:DateField" id="12" x="560" y="84" text="  /  /  " measuredWidth="58" measuredHeight="23"/>
+  <widgets xsi:type="model:Label" id="13" x="552" y="50" width="137" text="Expires On" measuredWidth="137" measuredHeight="23">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

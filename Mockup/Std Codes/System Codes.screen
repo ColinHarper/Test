@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Label" id="3" x="248" y="10" width="179" text="System Dictionary Table" measuredWidth="179" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="4" x="128" y="64" width="89" text="Table Name" measuredWidth="89" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="5" x="240" y="64" width="145" text="Codes Id" measuredWidth="145" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="6" x="128" y="104" width="105" text="Table Description" measuredWidth="105" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="7" x="128" y="181" text="Date Controlled" measuredWidth="89" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:List" id="8" x="240" y="181" text="(o) Yes&#xA;( ) No" measuredWidth="48" measuredHeight="48" border="false" alpha="0">
+    <font/>
+    <items x="0" y="2" width="48" height="22" text="(o) Yes"/>
+    <items x="0" y="24" width="48" height="22" text="( ) No"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="9" x="240" y="104" width="142" text="Description" measuredWidth="142" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="10" x="128" y="136" width="89" text="Short Desc" measuredWidth="89" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="11" x="240" y="144" width="142" text="Short Name" measuredWidth="142" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:DateField" id="15" x="384" y="181" text="  /  /  " measuredWidth="58" measuredHeight="23"/>
+  <widgets xsi:type="model:Label" id="16" x="464" y="181" text="To" measuredWidth="20" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="17" x="328" y="181" text="From" measuredWidth="34" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:DateField" id="18" x="496" y="181" text="  /  /  " measuredWidth="58" measuredHeight="23"/>
+  <widgets xsi:type="model:Button" id="20" x="496" y="304" text="Apply Changes" measuredWidth="100" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="21" x="423" y="304" text="Refresh" measuredWidth="59" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="24" y="401" width="689" text="Notes&#xD;&#xA;Forms template created for each new search option, the Table Name should be validataed against the data dictionary &#xD;&#xA;The Code Type filed should be prefilled with &quot;S&quot;" measuredWidth="689" measuredHeight="53">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="25" x="128" y="240" text="Table Searchable" measuredWidth="95" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:List" id="26" x="240" y="240" text="(o) Yes&#xA;( ) No" measuredWidth="48" measuredHeight="48" border="false" alpha="0">
+    <font/>
+    <items x="0" y="2" width="48" height="22" text="(o) Yes"/>
+    <items x="0" y="24" width="48" height="22" text="( ) No"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

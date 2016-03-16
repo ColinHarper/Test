@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Label" id="3" x="248" y="10" width="179" text="Search Criteria" measuredWidth="179" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:DateField" id="4" x="224" y="113" text="  /  /  " measuredWidth="58" measuredHeight="23"/>
+  <widgets xsi:type="model:DateField" id="5" x="360" y="113" text="  /  /  " measuredWidth="58" measuredHeight="23"/>
+  <widgets xsi:type="model:Combo" id="6" x="300" y="71" text="Search Type" measuredWidth="91" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="8" x="144" y="71" width="121" text="Search Type" measuredWidth="121" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="9" x="144" y="113" width="73" text="Date From" measuredWidth="73" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="10" x="300" y="113" width="73" text="Date To" measuredWidth="73" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:ButtonBar" id="11" x="144" y="168" text="Select 1, Select 2, Select 3,Select 4,Select5" measuredWidth="304" measuredHeight="27" selection="0">
+    <font/>
+    <items x="0" y="0" width="62" height="27" text="Select 1"/>
+    <items x="62" y="0" width="61" height="27" text="Select 2"/>
+    <items x="123" y="0" width="61" height="27" text="Select 3"/>
+    <items x="184" y="0" width="61" height="27" text="Select 4"/>
+    <items x="245" y="0" width="59" height="27" text="Select5"/>
+  </widgets>
+  <widgets xsi:type="model:ButtonBar" id="12" x="144" y="208" text="Select 6, Select 7, Select 8,Select 9,Select 10" measuredWidth="313" measuredHeight="27" selection="0">
+    <font/>
+    <items x="0" y="0" width="62" height="27" text="Select 6"/>
+    <items x="62" y="0" width="61" height="27" text="Select 7"/>
+    <items x="123" y="0" width="61" height="27" text="Select 8"/>
+    <items x="184" y="0" width="61" height="27" text="Select 9"/>
+    <items x="245" y="0" width="68" height="27" text="Select 10"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="15" x="206" y="256" width="107" text="Text field" measuredWidth="107" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="16" x="206" y="286" width="101" text="Text field" measuredWidth="101" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="17" x="206" y="316" width="101" text="Text field" measuredWidth="101" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="18" x="206" y="376" width="107" text="Text field" measuredWidth="107" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="19" x="206" y="346" width="107" text="Text field" measuredWidth="107" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="20" x="417" y="346" width="144" text="Text field" measuredWidth="144" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="21" x="417" y="376" width="144" text="Text field" measuredWidth="144" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="22" x="417" y="316" width="144" text="Text field" measuredWidth="144" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="23" x="417" y="286" width="144" text="Text field" measuredWidth="144" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="24" x="417" y="256" width="144" text="Text field" measuredWidth="144" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="25" x="144" y="256" width="49" text="Label 1" measuredWidth="49" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="26" x="144" y="286" width="49" text="Label 2" measuredWidth="49" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="27" x="144" y="346" width="73" text="Label 4" measuredWidth="73" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="28" x="144" y="376" width="73" text="Label 5" measuredWidth="73" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="29" x="360" y="256" width="73" text="Label 6" measuredWidth="73" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="30" x="360" y="286" width="73" text="Label 7" measuredWidth="73" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="31" x="360" y="316" width="73" text="Label 8" measuredWidth="73" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="32" x="360" y="346" width="73" text="Label 9" measuredWidth="73" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="33" x="360" y="376" width="73" text="Label 10" measuredWidth="73" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="34" x="144" y="316" width="73" text="Label 3" measuredWidth="73" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="35" x="48" y="146" width="73" text="Select From" measuredWidth="73" measuredHeight="23">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

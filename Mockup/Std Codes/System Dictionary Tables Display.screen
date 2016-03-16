@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Label" id="1" x="248" y="10" width="179" text="System Dictionary Table  Display " measuredWidth="179" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="4" x="32" y="72" width="105" text="Data Name" measuredWidth="105" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="5" x="616" y="72" width="89" text="Display Order" measuredWidth="89" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:List" id="6" x="24" y="96" width="657" text="Surname&#x9;                                                                              Y                                             S                    Y                   Y                 &#xA;Forename                                                                            Y                                              S                   Y                   Y&#xA;DOB                                                                                     N                                              S                   N                   N&#xA;Charge Code                                                                       Y                                              U                  N                   N&#xA;Team                                                                                    Y                                              U                  Y                    Y&#xA;Shift                                                                                      Y                                              U                  Y                    Y&#xA;Trade Union                                                                        N                                             U                   N                  N" measuredWidth="657" measuredHeight="151">
+    <font/>
+    <items x="0" y="2" width="657" height="21" text="Surname&#x9;                                                                              Y                                             S                    Y                   Y                 "/>
+    <items x="0" y="23" width="657" height="21" text="Forename                                                                            Y                                              S                   Y                   Y"/>
+    <items x="0" y="44" width="657" height="21" text="DOB                                                                                     N                                              S                   N                   N"/>
+    <items x="0" y="65" width="657" height="21" text="Charge Code                                                                       Y                                              U                  N                   N"/>
+    <items x="0" y="86" width="657" height="21" text="Team                                                                                    Y                                              U                  Y                    Y"/>
+    <items x="0" y="107" width="657" height="21" text="Shift                                                                                      Y                                              U                  Y                    Y"/>
+    <items x="0" y="128" width="657" height="21" text="Trade Union                                                                        N                                             U                   N                  N"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="7" x="168" y="72" width="105" text="Valid From /To" measuredWidth="105" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="8" x="568" y="72" width="49" text="Search" measuredWidth="49" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="9" x="360" y="72" width="57" text="Look Up" measuredWidth="57" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="10" x="296" y="72" width="49" text="Display" measuredWidth="49" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="40" y="328" width="441" text="Notes&#xD;&#xA;Display Name is the Table Data Name&#xD;&#xA;Display   Y/N   &#xD;&#xA;Link Table - refers back to UCODES user table&#xD;&#xA;Display Order as defined by the user&#xD;&#xA;Search - Indicates whether or not this is a field to be used in the serach form" measuredWidth="441" measuredHeight="98">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="41" x="56" y="40" width="105" text="Table Name" measuredWidth="105" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="42" x="160" y="40" width="142" text="Pers" measuredWidth="142" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="43" x="496" y="72" width="73" text="Mandatory" measuredWidth="73" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="44" x="426" y="72" width="65" text="Created By" measuredWidth="65" measuredHeight="23">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

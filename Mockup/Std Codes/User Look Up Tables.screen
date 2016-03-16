@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Label" id="1" x="248" y="10" width="179" text="User Look Up Tables" measuredWidth="179" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="4" x="56" y="72" width="105" text="Look Up table" measuredWidth="105" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:List" id="6" x="48" y="96" width="449" text="Quals                                          Qualifications&#xD;&#xA;WOSTAT                                    Work Order Status&#xD;&#xA;STLOC                                        Stores Locations&#xD;&#xA;TGRP                                          Team Groups&#xD;&#xA;etc" measuredWidth="449" measuredHeight="109">
+    <font/>
+    <items x="0" y="2" width="449" height="21" text="Quals                                          Qualifications"/>
+    <items x="0" y="23" width="449" height="21" text="WOSTAT                                    Work Order Status"/>
+    <items x="0" y="44" width="449" height="21" text="STLOC                                        Stores Locations"/>
+    <items x="0" y="65" width="449" height="21" text="TGRP                                          Team Groups"/>
+    <items x="0" y="86" width="449" height="21" text="etc"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="7" x="368" y="72" width="105" text="Valid From /To" measuredWidth="105" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="40" y="328" width="441" text="Notes&#xD;&#xA;Display Name is the Table Data Name&#xD;&#xA;Display   Y/N   &#xD;&#xA;Link Table - refers back to UCODES user table&#xD;&#xA;Display Order as defined by the user&#xD;&#xA;Search - Indicates whether or not this is a field to be used in the serach form" measuredWidth="441" measuredHeight="98">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="43" x="208" y="72" width="105" text="Description" measuredWidth="105" measuredHeight="23">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

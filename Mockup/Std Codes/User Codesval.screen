@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Label" id="1" x="272" y="8" width="179" text="User Look Up Details" measuredWidth="179" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="3" x="216" y="50" width="89" text="Look Up Code" measuredWidth="89" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="7" x="328" y="50" width="145" text="Codes Id" measuredWidth="145" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="9" x="216" y="88" width="89" text="Look Up Value" measuredWidth="89" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="11" x="216" y="168" text="Date Controlled" measuredWidth="89" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:List" id="12" x="320" y="156" text="(o) Yes&#xA;( ) No" measuredWidth="48" measuredHeight="48" border="false" alpha="0">
+    <font/>
+    <items x="0" y="2" width="48" height="22" text="(o) Yes"/>
+    <items x="0" y="24" width="48" height="22" text="( ) No"/>
+  </widgets>
+  <widgets xsi:type="model:DateField" id="13" x="464" y="168" text="  /  /  " measuredWidth="58" measuredHeight="23"/>
+  <widgets xsi:type="model:Label" id="14" x="544" y="168" text="To" measuredWidth="20" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="15" x="408" y="168" text="From" measuredWidth="34" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:DateField" id="16" x="576" y="168" text="  /  /  " measuredWidth="58" measuredHeight="23"/>
+  <widgets xsi:type="model:Label" id="17" x="216" y="320" width="89" text="Version" measuredWidth="89" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="18" x="328" y="320" text="Version" measuredWidth="50" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" id="19" x="464" y="88" text="Create New" measuredWidth="82" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="23" x="216" y="256" text="Value 1" measuredWidth="44" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="24" x="472" y="256" text="Value 2" measuredWidth="44" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="25" x="216" y="288" text="Value 3" measuredWidth="44" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="26" x="328" y="256" text="Value 1" measuredWidth="49" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="27" x="563" y="256" text="Value 2" measuredWidth="49" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="28" x="328" y="288" text="Value 3" measuredWidth="49" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="29" x="504" y="352" text="Apply Changes" measuredWidth="100" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="30" x="431" y="352" text="Refresh" measuredWidth="59" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="33" x="328" y="88" text="Description" measuredWidth="71" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="34" x="328" y="128" text="Short Desc" measuredWidth="67" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="36" x="216" y="216" text="Icon" measuredWidth="29" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="37" x="328" y="216" text="Icon Link" measuredWidth="59" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="38" x="216" y="128" width="89" text="Short Desc" measuredWidth="89" measuredHeight="23">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

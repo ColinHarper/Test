@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Label" id="1" x="248" y="10" width="179" text="System Dictionary Detail" measuredWidth="179" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="3" x="216" y="56" width="89" text="Table Name" measuredWidth="89" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="7" x="328" y="56" width="145" text="Scodes Id" measuredWidth="145" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="9" x="216" y="96" width="89" text="Data Name" measuredWidth="89" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="10" x="328" y="96" text="Scodesval ID" measuredWidth="77" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" id="19" x="464" y="96" text="Create New" measuredWidth="82" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="29" x="504" y="354" text="Apply Changes" measuredWidth="100" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="30" x="431" y="354" text="Refresh" measuredWidth="59" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="31" x="216" y="184" text="Display Label" measuredWidth="75" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="32" x="448" y="184" text="Short Desc" measuredWidth="62" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="33" x="328" y="184" text="Description" measuredWidth="71" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="34" x="528" y="184" text="Short Desc" measuredWidth="67" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="35" x="24" y="448" width="522" text="Notes&#xD;&#xA;The Table Name is prefilled from the SysCodes Screen and should not be enterable&#xD;&#xA;If Create new is not ticked then the field should be validated against athe data dictionary&#xD;&#xA;If Create New is ticked then need to add the data characteristics&#xD;&#xA;Link Value is the reference to another look up table in Codes" measuredWidth="522" measuredHeight="83">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="36" x="216" y="280" text="Look Up Name" measuredWidth="85" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="37" x="328" y="280" text="Look Up Value" measuredWidth="87" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" id="39" x="216" y="314" text="Search Capable" measuredWidth="102" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" id="40" x="216" y="336" text="Display" measuredWidth="59" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="41" x="438" y="144" width="89" text="Field Length" measuredWidth="89" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="42" x="509" y="144" text="Length" measuredWidth="48" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="43" x="216" y="144" width="89" text="Field Type" measuredWidth="89" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="44" x="328" y="144" width="94" text="Field Type" measuredWidth="94" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="45" x="576" y="144" width="89" text="Decimals" measuredWidth="89" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="46" x="640" y="144" text="Dec" measuredWidth="31" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="47" x="438" y="228" text="Mandatory " measuredWidth="67" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:List" id="48" x="545" y="216" width="99" text="(o) Yes&#xA;( ) No" measuredWidth="99" measuredHeight="48" border="false" alpha="0">
+    <font/>
+    <items x="0" y="2" width="99" height="22" text="(o) Yes"/>
+    <items x="0" y="24" width="99" height="22" text="( ) No"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="49" x="216" y="228" text="System / User" measuredWidth="78" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:List" id="50" x="328" y="216" width="99" text="(o) System&#xA;( ) User" measuredWidth="99" measuredHeight="48" border="false" alpha="0">
+    <font/>
+    <items x="0" y="2" width="99" height="22" text="(o) System"/>
+    <items x="0" y="24" width="99" height="22" text="( ) User"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

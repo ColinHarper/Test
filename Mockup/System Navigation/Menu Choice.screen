@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:TextField" id="1" x="175" y="96" text="User Name" measuredWidth="69" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="3" x="64" y="94" text="User Name" measuredWidth="79" measuredHeight="28">
+    <font size="15px"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="5" x="243" y="40" text="Ultrasys III Logon" measuredWidth="130" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="8" x="312" y="99" text="Select a Menu" measuredWidth="85" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="9" x="312" y="176" text="Select a Role" measuredWidth="77" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:List" id="10" x="492" y="111" text="Item One&#xA;Item Two&#xA;Item Three&#xA;|Multiple&#xA;Selection&#xA;(bg:green)|Works like this&#xA;For List, Table and Tree" measuredWidth="133" measuredHeight="151">
+    <font/>
+    <items x="0" y="2" width="133" height="21" text="Item One"/>
+    <items x="0" y="23" width="133" height="21" text="Item Two"/>
+    <items x="0" y="44" width="133" height="21" text="Item Three"/>
+    <items x="0" y="65" width="133" height="21" text="|Multiple"/>
+    <items x="0" y="86" width="133" height="21" text="Selection"/>
+    <items x="0" y="107" width="133" height="21" text="(bg:green)|Works like this"/>
+    <items x="0" y="128" width="133" height="21" text="For List, Table and Tree"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

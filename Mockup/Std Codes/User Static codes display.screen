@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Label" id="1" x="208" y="16" width="179" text="User Look Up Display " measuredWidth="179" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="4" x="56" y="72" width="105" text="Look Up Value" measuredWidth="105" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="5" x="496" y="72" width="179" text="Display Order" measuredWidth="179" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:List" id="6" x="40" y="112" width="401" text="Fully Accepted&#xA;Fully Invoiced&#xA;Fully Rejected&#xA;Fully Returned&#xA;Outstanding" measuredWidth="401" measuredHeight="109">
+    <font/>
+    <items x="0" y="2" width="401" height="21" text="Fully Accepted"/>
+    <items x="0" y="23" width="401" height="21" text="Fully Invoiced"/>
+    <items x="0" y="44" width="401" height="21" text="Fully Rejected"/>
+    <items x="0" y="65" width="401" height="21" text="Fully Returned"/>
+    <items x="0" y="86" width="401" height="21" text="Outstanding"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="7" x="488" y="112" text="Display Order" measuredWidth="82" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="8" x="488" y="134" text="Display Order" measuredWidth="82" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="10" x="488" y="154" text="Display Order" measuredWidth="82" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="11" x="488" y="176" text="Display Order" measuredWidth="82" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="12" x="488" y="196" text="Display Order" measuredWidth="82" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="15" x="183" y="72" width="105" text="Valid From /To" measuredWidth="105" measuredHeight="23">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

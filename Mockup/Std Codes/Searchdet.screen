@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Label" id="3" x="264" y="8" width="179" text="System Forms Details" measuredWidth="179" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="6" x="120" y="48" width="121" text="Link Table" measuredWidth="121" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="7" x="240" y="48" text="Form Name" measuredWidth="90" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="92" x="18" y="376" width="615" height="105" text="Notes&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;" measuredWidth="615" measuredHeight="105">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="93" x="360" y="48" width="121" text="Form Table Name" measuredWidth="121" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="94" x="480" y="48" text="Form Option" measuredWidth="95" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="95" x="120" y="96" width="121" text="Generic Data Item" measuredWidth="121" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="100" x="128" y="210" width="121" text="Specific Data Name" measuredWidth="121" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="103" x="128" y="140" width="97" text="Data Name 1" measuredWidth="97" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="104" x="233" y="140" width="97" text="Data Desc 1" measuredWidth="97" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="105" x="342" y="140" width="67" text="Data Mand 1" measuredWidth="67" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="106" x="592" y="140" width="65" text="Data Del 1" measuredWidth="65" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="107" x="128" y="118" width="529" text="Name                         Description                  Mandatory       Searchable     Display Seq           Delete  " measuredWidth="529" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="108" x="128" y="162" width="97" text="Data Name 2" measuredWidth="97" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="109" x="233" y="162" width="97" text="Data Desc 2" measuredWidth="97" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="110" x="342" y="162" width="67" text="Data Mand 2" measuredWidth="67" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="111" x="592" y="162" width="69" text="Data Del 2" measuredWidth="69" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="112" x="616" y="191" text="etc" measuredWidth="27" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="123" x="426" y="140" width="67" text="Data Sear 1" measuredWidth="67" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="124" x="426" y="162" width="67" text="Data Sear 2" measuredWidth="67" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="125" x="510" y="140" width="65" text="Data Disp 1" measuredWidth="65" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="126" x="510" y="162" width="65" text="Data Disp 2" measuredWidth="65" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="127" x="120" y="254" width="97" text="Data Name 1" measuredWidth="97" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="128" x="225" y="254" width="97" text="Data Desc 1" measuredWidth="97" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="129" x="334" y="254" width="67" text="Data Mand 1" measuredWidth="67" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="130" x="584" y="254" width="65" text="Data Del 1" measuredWidth="65" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="131" x="120" y="232" width="529" text="Name                         Description                  Mandatory       Searchable     Display Seq           Delete  " measuredWidth="529" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="132" x="120" y="276" width="97" text="Data Name 2" measuredWidth="97" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="133" x="225" y="276" width="97" text="Data Desc 2" measuredWidth="97" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="134" x="334" y="276" width="67" text="Data Mand 2" measuredWidth="67" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="135" x="584" y="276" width="69" text="Data Del 2" measuredWidth="69" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="136" x="608" y="305" text="etc" measuredWidth="27" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="137" x="418" y="254" width="67" text="Data Sear 1" measuredWidth="67" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="138" x="418" y="276" width="67" text="Data Sear 2" measuredWidth="67" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="139" x="502" y="254" width="65" text="Data Disp 1" measuredWidth="65" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="140" x="502" y="276" width="65" text="Data Disp 2" measuredWidth="65" measuredHeight="23">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

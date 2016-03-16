@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Label" id="3" x="200" y="8" width="137" text="User Access " measuredWidth="137" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="4" x="144" y="80" width="73" text="Menus" measuredWidth="73" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="5" x="144" y="184" width="39" text="Roles" measuredWidth="39" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:List" id="10" x="192" y="88" text="(o) Display Current &#xA;( ) Add /Change&#xA;( ) Disable Access" measuredWidth="114" measuredHeight="70" border="false" alpha="0">
+    <font/>
+    <items x="0" y="2" width="114" height="22" text="(o) Display Current "/>
+    <items x="0" y="24" width="114" height="22" text="( ) Add /Change"/>
+    <items x="0" y="46" width="114" height="22" text="( ) Disable Access"/>
+  </widgets>
+  <widgets xsi:type="model:List" id="11" x="408" y="89" width="185" text="Menu One                    31/12/9999&#xA;Menu Two&#x9;&#x9;   &#x9;   &#x9;&#x9;   &#x9;  01/01/2016&#xA;Menu Three                 30/11/2015&#xA;" measuredWidth="185" measuredHeight="67">
+    <font/>
+    <items x="0" y="2" width="185" height="21" text="Menu One                    31/12/9999"/>
+    <items x="0" y="23" width="185" height="21" text="Menu Two&#x9;&#x9;   &#x9;   &#x9;&#x9;   &#x9;  01/01/2016"/>
+    <items x="0" y="44" width="185" height="21" text="Menu Three                 30/11/2015"/>
+  </widgets>
+  <widgets xsi:type="model:List" id="12" x="200" y="184" text="(o) Display Current &#xA;( ) Add /Change&#xA;( ) Disable Access" measuredWidth="114" measuredHeight="70" border="false" alpha="0">
+    <font/>
+    <items x="0" y="2" width="114" height="22" text="(o) Display Current "/>
+    <items x="0" y="24" width="114" height="22" text="( ) Add /Change"/>
+    <items x="0" y="46" width="114" height="22" text="( ) Disable Access"/>
+  </widgets>
+  <widgets xsi:type="model:List" id="13" x="408" y="185" width="217" text="Role One&#x9;   &#x9;&#x9;&#x9;31/12/9999&#xA;Role Two           12/12/2015&#xA;&#xA;" measuredWidth="217" measuredHeight="67">
+    <font/>
+    <items x="0" y="2" width="217" height="21" text="Role One&#x9;   &#x9;&#x9;&#x9;31/12/9999"/>
+    <items x="0" y="23" width="217" height="21" text="Role Two           12/12/2015"/>
+    <items x="0" y="44" width="217" height="21"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="14" x="144" y="288" text="Layers" measuredWidth="39" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:List" id="15" x="208" y="288" text="(o) Display Current&#xA;( ) Add /Change&#xA;( ) Disable Access" measuredWidth="111" measuredHeight="70" border="false" alpha="0">
+    <font/>
+    <items x="0" y="2" width="111" height="22" text="(o) Display Current"/>
+    <items x="0" y="24" width="111" height="22" text="( ) Add /Change"/>
+    <items x="0" y="46" width="111" height="22" text="( ) Disable Access"/>
+  </widgets>
+  <widgets xsi:type="model:List" id="16" x="408" y="289" width="209" text="Layer One&#x9;&#x9;&#x9;&#x9;31/12/9999&#xA;Layer  Two      &#x9;   30/11/2015&#xA;Layer Three&#x9;&#x9;&#x9;01/04/2016&#xA;" measuredWidth="209" measuredHeight="67">
+    <font/>
+    <items x="0" y="2" width="209" height="21" text="Layer One&#x9;&#x9;&#x9;&#x9;31/12/9999"/>
+    <items x="0" y="23" width="209" height="21" text="Layer  Two      &#x9;   30/11/2015"/>
+    <items x="0" y="44" width="209" height="21" text="Layer Three&#x9;&#x9;&#x9;01/04/2016"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="17" x="144" y="48" width="73" text="Security Level" measuredWidth="73" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="18" x="256" y="48" text="Security Level" measuredWidth="99" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Menu" id="20" y="8" text="Std Bits,&amp;appear~&amp;Here~,&amp;Help" measuredWidth="184" measuredHeight="27">
+    <items x="5" y="0" width="50" height="27" text="Std Bits"/>
+    <items x="55" y="0" width="88" height="27" text="&amp;appear~&amp;Here~"/>
+    <items x="143" y="0" width="36" height="27" text="&amp;Help"/>
+  </widgets>
+  <widgets xsi:type="model:Tree" id="21" x="8" y="30" width="97" text="Menu&#xA;-Personnel&#xA;--General&#xA;--History&#xA;-Work&#xA;--MOM&#xA;--Work Ticket Print&#xA;&#xA;" measuredWidth="97" measuredHeight="178">
+    <items x="0" y="5" width="97" height="21" text="Menu"/>
+    <items x="0" y="26" width="97" height="21" text="-Personnel"/>
+    <items x="0" y="47" width="97" height="21" text="--General"/>
+    <items x="0" y="68" width="97" height="21" text="--History"/>
+    <items x="0" y="89" width="97" height="21" text="-Work"/>
+    <items x="0" y="110" width="97" height="21" text="--MOM"/>
+    <items x="0" y="131" width="97" height="21" text="--Work Ticket Print"/>
+    <items x="0" y="152" width="97" height="21"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="22" x="560" y="376" text="Apply Changes" measuredWidth="100" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="23" x="487" y="376" text="Refresh" measuredWidth="59" measuredHeight="25">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

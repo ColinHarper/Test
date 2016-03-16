@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Label" id="3" x="248" y="10" width="179" text="System Forms " measuredWidth="179" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="6" x="128" y="48" width="121" text="Form Name" measuredWidth="121" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="7" x="248" y="48" text="Form Name" measuredWidth="90" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" id="8" x="408" y="48" text="Create New" measuredWidth="82" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="9" x="248" y="112" text="Form Description" measuredWidth="102" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="10" x="128" y="112" width="121" text="Form Description" measuredWidth="121" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" id="32" x="342" y="200" text="Gen Mandatory " measuredWidth="106" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="92" x="18" y="376" width="615" height="105" text="Notes&#xD;&#xA;Form Type = O'verlay&#xD;&#xA;Link Table  =  Bring up available tables from the codes structure with type = &quot;s&quot;&#xD;&#xA;Gen name =  Pick up values from Link Table that have not already been attached&#xD;&#xA;Gen Group = Pick up from Codes where type= 'D'&#xD;&#xA;Spec Name = Pick up values from Link Table that have not already been attached&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;" measuredWidth="615" measuredHeight="105">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="93" x="128" y="81" width="121" text="Form Table Option" measuredWidth="121" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="94" x="248" y="81" text="System Tables" measuredWidth="102" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="95" x="128" y="176" width="121" text="Add Generic Data Item" measuredWidth="121" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" id="99" x="342" y="288" text="Spec  Mandatory " measuredWidth="113" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="100" x="128" y="248" width="137" text="Add Specific Data Name" measuredWidth="137" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" id="101" x="472" y="200" text="Gen Searchable" measuredWidth="102" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" id="102" x="480" y="288" text="Spec Searchable" measuredWidth="106" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="105" x="140" y="200" text="List of System Data names" measuredWidth="165" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="106" x="140" y="288" text="List of System Data names" measuredWidth="165" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="107" x="128" y="144" width="121" text="Link to Master Form" measuredWidth="121" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="108" x="248" y="144" text="Link Form Name" measuredWidth="115" measuredHeight="23">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

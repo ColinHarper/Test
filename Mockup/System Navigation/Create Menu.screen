@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:List" id="3" x="368" y="49" width="313" height="128" text="Name   &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;Valid From &#x9;&#x9;&#x9;&#x9;Valid To&#xD;&#xA;Menu 1&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;1/1/2015&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;31/12/2199&#xD;&#xA;Menu 2&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;1/4/2015&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;31/12/2015&#x9;&#x9;&#x9;&#xD;&#xA;ETC&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;" measuredWidth="313" measuredHeight="128">
+    <font/>
+    <items x="0" y="2" width="313" height="21" text="Name   &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;Valid From &#x9;&#x9;&#x9;&#x9;Valid To"/>
+    <items x="0" y="23" width="313" height="21" text="Menu 1&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;1/1/2015&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;31/12/2199"/>
+    <items x="0" y="44" width="313" height="21" text="Menu 2&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;1/4/2015&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;31/12/2015&#x9;&#x9;&#x9;"/>
+    <items x="0" y="65" width="313" height="21" text="ETC"/>
+    <items x="0" y="86" width="313" height="21"/>
+    <items x="0" y="107" width="313" height="21"/>
+    <items x="0" y="128" width="313" height="21"/>
+  </widgets>
+  <widgets xsi:type="model:List" id="6" x="112" y="40" text="(o) Menu&#xA;( ) Role&#xA;" measuredWidth="61" measuredHeight="48" border="false" alpha="0">
+    <font/>
+    <items x="0" y="2" width="61" height="22" text="(o) Menu"/>
+    <items x="0" y="24" width="61" height="22" text="( ) Role"/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" id="7" x="118" y="91" text="Create" measuredWidth="55" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="8" x="191" y="91" text="List Name" measuredWidth="64" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Tree" id="9" y="36" width="97" text="Menu&#xA;-Personnel&#xA;--General&#xA;--History&#xA;-Work&#xA;--MOM&#xA;--Work Ticket Print&#xA;&#xA;" measuredWidth="97" measuredHeight="178">
+    <items x="0" y="5" width="97" height="21" text="Menu"/>
+    <items x="0" y="26" width="97" height="21" text="-Personnel"/>
+    <items x="0" y="47" width="97" height="21" text="--General"/>
+    <items x="0" y="68" width="97" height="21" text="--History"/>
+    <items x="0" y="89" width="97" height="21" text="-Work"/>
+    <items x="0" y="110" width="97" height="21" text="--MOM"/>
+    <items x="0" y="131" width="97" height="21" text="--Work Ticket Print"/>
+    <items x="0" y="152" width="97" height="21"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:List" id="14" x="118" y="160" text="(o) MTAS&#xA;( ) Selected&#xA;( ) New" measuredWidth="74" measuredHeight="70" border="false" alpha="0">
+    <font/>
+    <items x="0" y="2" width="74" height="22" text="(o) MTAS"/>
+    <items x="0" y="24" width="74" height="22" text="( ) Selected"/>
+    <items x="0" y="46" width="74" height="22" text="( ) New"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="15" x="127" y="135" text="If Create Use Template " measuredWidth="133" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:List" id="18" x="304" y="280" width="385" text="Display Name | Display Label | Function |  On / Off |&#xD;&#xA;Personnel          Personnnel       xxxx              x&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;" measuredWidth="385" measuredHeight="130">
+    <font/>
+    <items x="0" y="2" width="385" height="21" text="Display Name | Display Label | Function |  On / Off |"/>
+    <items x="0" y="23" width="385" height="21" text="Personnel          Personnnel       xxxx              x"/>
+    <items x="0" y="44" width="385" height="21"/>
+    <items x="0" y="65" width="385" height="21"/>
+    <items x="0" y="86" width="385" height="21"/>
+    <items x="0" y="107" width="385" height="21"/>
+  </widgets>
+  <widgets xsi:type="model:List" id="23" x="240" y="207" text="() Edit Display Sequence &#xA;(o)  Edit Access Matrix &#xA;" measuredWidth="148" measuredHeight="48" border="false" alpha="0">
+    <font/>
+    <items x="0" y="2" width="148" height="22" text="() Edit Display Sequence "/>
+    <items x="0" y="24" width="148" height="22" text="(o)  Edit Access Matrix "/>
+  </widgets>
+  <widgets xsi:type="model:Tree" id="24" x="127" y="280" width="97" text="Menu&#xA;-Personnel&#xA;--General&#xA;--History&#xA;-Work&#xA;--MOM&#xA;--Work Ticket Print&#xA;&#xA;" measuredWidth="97" measuredHeight="178">
+    <items x="0" y="5" width="97" height="21" text="Menu"/>
+    <items x="0" y="26" width="97" height="21" text="-Personnel"/>
+    <items x="0" y="47" width="97" height="21" text="--General"/>
+    <items x="0" y="68" width="97" height="21" text="--History"/>
+    <items x="0" y="89" width="97" height="21" text="-Work"/>
+    <items x="0" y="110" width="97" height="21" text="--MOM"/>
+    <items x="0" y="131" width="97" height="21" text="--Work Ticket Print"/>
+    <items x="0" y="152" width="97" height="21"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="25" x="127" y="254" text="Display Sequence" measuredWidth="103" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="26" x="440" y="254" text="Function Matrix" measuredWidth="94" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Menu" id="27" y="8" text="Std Bits,&amp;appear~&amp;Here~,&amp;Help" measuredWidth="184" measuredHeight="27">
+    <items x="5" y="0" width="50" height="27" text="Std Bits"/>
+    <items x="55" y="0" width="88" height="27" text="&amp;appear~&amp;Here~"/>
+    <items x="143" y="0" width="36" height="27" text="&amp;Help"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="28" x="222" y="10" width="179" text="Menu / Role Administration" measuredWidth="179" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="29" x="488" y="448" text="Apply Changes" measuredWidth="100" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="30" x="415" y="448" text="Refresh" measuredWidth="59" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="31" x="473" y="27" text="Header Information" measuredWidth="115" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:DateField" id="32" x="191" y="113" text="  /  /  " measuredWidth="58" measuredHeight="23"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
